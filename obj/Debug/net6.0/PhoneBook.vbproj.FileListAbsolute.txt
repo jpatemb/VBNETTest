@@ -1,0 +1,15 @@
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.vbproj.AssemblyReference.cache
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.AssemblyInfo.vb
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.vbproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\RevaVB\RevTestCode\bin\Debug\net6.0\PhoneBook.exe
+C:\Users\JP\source\repos\RevaVB\RevTestCode\bin\Debug\net6.0\PhoneBook.deps.json
+C:\Users\JP\source\repos\RevaVB\RevTestCode\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\Users\JP\source\repos\RevaVB\RevTestCode\bin\Debug\net6.0\PhoneBook.dll
+C:\Users\JP\source\repos\RevaVB\RevTestCode\bin\Debug\net6.0\ref\PhoneBook.dll
+C:\Users\JP\source\repos\RevaVB\RevTestCode\bin\Debug\net6.0\PhoneBook.pdb
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.dll
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\ref\PhoneBook.dll
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.pdb
+C:\Users\JP\source\repos\RevaVB\RevTestCode\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
